@@ -1,7 +1,7 @@
 {
   "pages":
-  [
-  "page": {"url":"https://raw.githubusercontent.com/rholzner/scaling-enigma/main/README.md", "name":"page 1","id":"1" },
-  "page": {"url":"https://raw.githubusercontent.com/rholzner/scaling-enigma/main/README.md", "name":"page 2","id":"2" }
+  [ 
+   {"url":"https://raw.githubusercontent.com/rholzner/scaling-enigma/main/README.md", "name":"page 1","id":"1" },
+   {"url":"https://raw.githubusercontent.com/rholzner/scaling-enigma/main/README.md", "name":"page 2","id":"2" }
   ]
 }
